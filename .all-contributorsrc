@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mayankchaudhary26",
+      "name": "Mayank Choudhary",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56837137?v=4",
+      "profile": "https://dev.to/rado_mayank",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "EnhanceYourProfile",
+  "projectOwner": "App-Choreography",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
