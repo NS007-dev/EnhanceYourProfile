@@ -24,3 +24,4 @@ A list of **COOL** profile add-ons, which are either websites or repos, that is 
 | [Typing Effect](https://github.com/DenverCoder1/readme-typing-svg) | Build a typing effect. |
 | [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Line Chart. |
 | [Counter](https://github.com/antonkomarev/github-profile-views-counter) | Profile View counter |
+| [Octocats](https://github.com/mayankchaudhary26/Cool-Readme-ideas) | Cool Octocats and gifs for your profile |
